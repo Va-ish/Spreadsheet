@@ -4,11 +4,13 @@ import { Box } from "@mui/material";
 
 function App() {
   return (
-    <Box >
-       
+   
+    <Spreadsheet />
+   
+      
 
-      <Spreadsheet />
-    </Box>
+    
+   
   );
 }
 

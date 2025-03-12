@@ -11,3 +11,57 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+* {
+  font-family: sans-serif;
+} 
+
+
+.htDark {
+  width: 100px;
+  padding: 0.2em;
+  outline: none;
+  color: #fff;
+  border: 0;
+}
+
+.handsontable .htDark {
+  background: #406475;
+  color: #eee;
+  padding: 0.2em;
+}
+
+.handsontable .darkTH {
+  background: #487d96;
+  color: #eee;
+}
+
+.htLight {
+  width: 100px;
+  padding: 0.2em;
+  outline: none;
+  color: #fff;
+  border: 0;
+}
+
+.handsontable .htLight {
+  background: #e0f2e9;
+  color: #155724; 
+  padding: 0.2em;
+}
+
+.handsontable .lightTH {
+  background: #a8d5ba; 
+  color: #064420; 
+  
+}
+
+.handsontable .htLightRow {
+  background: #c3e6cb; 
+  padding: 0.2em;
+}
+
+.handsontable .htLightBorder {
+  border-color: #4caf50; 
+  padding: 0.2em;
+}
